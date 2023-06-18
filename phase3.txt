@@ -1,0 +1,26 @@
+https://www.facebook.com/freitascherryranch/
+lkxkfyctqfiondua
+
+using 
+apache-jmeter-5.5
+
+https://jmeter.apache.org/download_jmeter.cgi
+binary section , download second link ie
+
+apache-jmeter-5.5.zip	sha512	pgp
+
+extract
+bin folder
+open batch file (you can see type) batch file
+double click
+cmd will open
+right click on file and click send to desktop so we can directly open from desktop
+
+https://jmeter-plugins.org/install/Install/
+download jar file
+keep it in C:\apache-jmeter-5.5\apache-jmeter-5.5\lib\ext
+and restart jmeter
+then go to jmter
+options-pligin manager-available plugin-sarch selenium- apply
+
+
